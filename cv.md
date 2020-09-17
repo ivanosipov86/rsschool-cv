@@ -7,7 +7,7 @@
 
 * **Skills**:
   * JavaScript, HTML, CSS, Sass;
-  * Git, Photoshop, Figma;
+  * Git, WebPack, Photoshop, Figma;
 * **Code examples**:
 * **Work experience**:
    * Completed courses in IT-Academy:
