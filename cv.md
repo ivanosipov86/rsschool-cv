@@ -29,4 +29,7 @@
        * learn.javascript.ru
 
 
-* English level pre-intermediate. Read technical literature, understand the interlocutor.
+* **English level** 
+   * Pre-intermediate **A2+**. 
+   * Read technical literature. 
+   * Understand the interlocutor.
